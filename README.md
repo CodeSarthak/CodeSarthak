@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and ReactJS**
 
-- 📝 I regulary write articles on [friendlybloggerman.in](friendlybloggerman.in)
+- 📝 I regulary write articles on [https://friendlybloggermanhome.wordpress.com/](friendlybloggerman.in)
 
 - 📫 How to reach me **getsarthakaggarwal@gmail.com**
 
